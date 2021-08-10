@@ -1,4 +1,0 @@
-#Mon Aug 09 21:43:14 BRT 2021
-base.0=/Users/macminidiego/Documents/projects/flutter/tests/hero_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
