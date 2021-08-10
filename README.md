@@ -11,10 +11,13 @@ Search for a hero by its name.
 Discover a new hero by tapping the shuffle button.
 Save your last searched heroes locally in a NoSql database.
 
+Some unit tests have been added.
+An APK was generated in apks/app-release.apk
+
 The app was developed in Flutter using these technologies. 
 - http for Rest service integrations. 
 - Hive NoSql database. 
 - MobX for state management. 
 - cached_network_image: for caching images.
 - lottie: for animations. 
-- some unit tests have been added. An APK was generated in apks/app-release.apk
+
