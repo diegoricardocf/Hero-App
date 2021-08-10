@@ -1,11 +1,11 @@
 _fe_analyzer_shared
 2.12
-file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-22.0.0/
-file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-22.0.0/lib/
+file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-21.0.0/
+file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-21.0.0/lib/
 analyzer
 2.12
-file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-1.7.1/
-file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-1.7.1/lib/
+file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-1.5.0/
+file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-1.5.0/lib/
 archive
 2.12
 file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/archive-3.1.2/
@@ -214,6 +214,10 @@ mobx_codegen
 2.12
 file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/mobx_codegen-2.0.2/
 file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/mobx_codegen-2.0.2/lib/
+mockito
+2.12
+file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/mockito-5.0.14/
+file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/mockito-5.0.14/lib/
 octo_image
 2.12
 file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/octo_image-1.0.0+1/
@@ -288,8 +292,8 @@ file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.da
 file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/shelf_web_socket-1.0.1/lib/
 source_gen
 2.12
-file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_gen-1.0.3/
-file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_gen-1.0.3/lib/
+file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_gen-1.0.0/
+file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_gen-1.0.0/lib/
 source_helper
 2.12
 file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_helper-1.2.1/

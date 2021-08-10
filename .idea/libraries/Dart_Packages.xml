@@ -5,14 +5,14 @@
         <entry key="_fe_analyzer_shared">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-22.0.0/lib" />
+              <option value="$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-21.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="analyzer">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-1.7.1/lib" />
+              <option value="$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-1.5.0/lib" />
             </list>
           </value>
         </entry>
@@ -394,6 +394,13 @@
             </list>
           </value>
         </entry>
+        <entry key="mockito">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/mockito-5.0.14/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="octo_image">
           <value>
             <list>
@@ -530,7 +537,7 @@
         <entry key="source_gen">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_gen-1.0.3/lib" />
+              <option value="$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_gen-1.0.0/lib" />
             </list>
           </value>
         </entry>
@@ -677,8 +684,8 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-22.0.0/lib" />
-      <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-1.7.1/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-21.0.0/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-1.5.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/archive-3.1.2/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.2.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.6.1/lib" />
@@ -731,6 +738,7 @@
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/mime-1.0.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/mobx-2.0.4/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/mobx_codegen-2.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/mockito-5.0.14/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/octo_image-1.0.0+1/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/package_config-2.0.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/lib" />
@@ -749,7 +757,7 @@
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/rxdart-0.27.1/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/shelf-1.2.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/shelf_web_socket-1.0.1/lib" />
-      <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_gen-1.0.3/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_gen-1.0.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_helper-1.2.1/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+3/lib" />

@@ -34,7 +34,7 @@ abstract class _SearchHeroStoreBase with Store {
   var showEmptyState = false;
 
 
-  HerosRepository _herosRepository = HerosRepository();
+  HerosRepository herosRepository = HerosRepository();
 
   @action
   searchHeroByName(String heroName, BuildContext ctx) async {
@@ -42,7 +42,7 @@ abstract class _SearchHeroStoreBase with Store {
     showHistoric = false;
     showEmptyState = false;
     heros.clear();
-    final response = await _herosRepository.searchHeroByName(heroName);
+    final response = await herosRepository.searchHeroByName(heroName);
     if(response.error){
       AnimatedErrorDialog.show(ctx: ctx, description:response.errorMessage ?? "");
     }else{
@@ -77,7 +77,7 @@ abstract class _SearchHeroStoreBase with Store {
   @action
   searchHeroById(BuildContext ctx) async {
     isLoading = true;
-    final response = await _herosRepository.searchHeroById(Random().nextInt(720));
+    final response = await herosRepository.searchHeroById(Random().nextInt(720));
     isLoading = false;
     if(response.error){
       AnimatedErrorDialog.show(ctx: ctx, description:response.errorMessage ?? "");

@@ -1,12 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
   </component>
-  <component name="RunManager">
+  <component name="ChangeListManager">
+    <list default="true" id="e972513d-cd2f-47fa-8922-b98d6f462d0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/test_cache/build/c075001b96339384a97db4862b8ab8db.cache.dill.track.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/NOTICES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/assets/images/boxing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/assets/images/idea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/assets/images/random.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/assets/images/runner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/assets/images/shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/assets/images/strength.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/assets/images/thunder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/assets/lottie/load_hero.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/assets/lottie/spaceman.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/assets/lottie/superhero.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/assets/lottie/warning.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/unit_test_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/mock_context.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/mock_hero_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/search_hero_store_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stores/search_hero_store.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/stores/search_hero_store.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wXPvTvsqf2WhpgLbzGyfvwKGWe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter Test.tests in search_hero_store_test.dart">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="should return a empty list when search for an not valid hero name" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="should return a empty list when search for an not valid hero name" />
+      <option name="testFile" value="$PROJECT_DIR$/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="should return a not empty list when search for an valid hero name" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="should return a not empty list when search for an valid hero name" />
+      <option name="testFile" value="$PROJECT_DIR$/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="showEmptyState should be false when when the returned list from repository is not empty" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="showEmptyState should be false when when the returned list from repository is not empty" />
+      <option name="testFile" value="$PROJECT_DIR$/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="showEmptyState should be true when list from repository is empty" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="showEmptyState should be true when list from repository is empty" />
+      <option name="testFile" value="$PROJECT_DIR$/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in search_hero_store_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testFile" value="$PROJECT_DIR$/test/search_hero_store_test.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.tests in search_hero_store_test.dart" />
+        <item itemvalue="Flutter Test.showEmptyState should be false when when the returned list from repository is not empty" />
+        <item itemvalue="Flutter Test.showEmptyState should be true when list from repository is empty" />
+        <item itemvalue="Flutter Test.should return a empty list when search for an not valid hero name" />
+        <item itemvalue="Flutter Test.should return a not empty list when search for an valid hero name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e972513d-cd2f-47fa-8922-b98d6f462d0c" name="Default Changelist" comment="" />
+      <created>1628602190650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628602190650</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2127" height="404" key="GridCell.Tab.0.bottom" timestamp="1628627945293">
+      <screen x="1366" y="-207" width="2560" height="1055" />
+    </state>
+    <state width="2127" height="230" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.-207.2560.962@1366.-207.2560.962" timestamp="1628605001707" />
+    <state width="2127" height="404" key="GridCell.Tab.0.bottom/0.25.1366.681/1366.-207.2560.1055@1366.-207.2560.1055" timestamp="1628627945293" />
+    <state width="2127" height="176" key="GridCell.Tab.0.bottom/0.25.1366.743/1366.-207.2560.962@1366.-207.2560.962" timestamp="1628605260904" />
+    <state width="2127" height="404" key="GridCell.Tab.0.center" timestamp="1628627945289">
+      <screen x="1366" y="-207" width="2560" height="1055" />
+    </state>
+    <state width="2127" height="230" key="GridCell.Tab.0.center/0.0.1366.768/1366.-207.2560.962@1366.-207.2560.962" timestamp="1628605001705" />
+    <state width="2127" height="404" key="GridCell.Tab.0.center/0.25.1366.681/1366.-207.2560.1055@1366.-207.2560.1055" timestamp="1628627945289" />
+    <state width="2127" height="176" key="GridCell.Tab.0.center/0.25.1366.743/1366.-207.2560.962@1366.-207.2560.962" timestamp="1628605260903" />
+    <state width="2127" height="404" key="GridCell.Tab.0.left" timestamp="1628627945287">
+      <screen x="1366" y="-207" width="2560" height="1055" />
+    </state>
+    <state width="2127" height="230" key="GridCell.Tab.0.left/0.0.1366.768/1366.-207.2560.962@1366.-207.2560.962" timestamp="1628605001704" />
+    <state width="2127" height="404" key="GridCell.Tab.0.left/0.25.1366.681/1366.-207.2560.1055@1366.-207.2560.1055" timestamp="1628627945287" />
+    <state width="2127" height="176" key="GridCell.Tab.0.left/0.25.1366.743/1366.-207.2560.962@1366.-207.2560.962" timestamp="1628605260903" />
+    <state width="2127" height="404" key="GridCell.Tab.0.right" timestamp="1628627945290">
+      <screen x="1366" y="-207" width="2560" height="1055" />
+    </state>
+    <state width="2127" height="230" key="GridCell.Tab.0.right/0.0.1366.768/1366.-207.2560.962@1366.-207.2560.962" timestamp="1628605001706" />
+    <state width="2127" height="404" key="GridCell.Tab.0.right/0.25.1366.681/1366.-207.2560.1055@1366.-207.2560.1055" timestamp="1628627945290" />
+    <state width="2127" height="176" key="GridCell.Tab.0.right/0.25.1366.743/1366.-207.2560.962@1366.-207.2560.962" timestamp="1628605260904" />
   </component>
 </project>

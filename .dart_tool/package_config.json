@@ -3,13 +3,13 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-22.0.0",
+      "rootUri": "file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-21.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-1.7.1",
+      "rootUri": "file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-1.5.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -338,6 +338,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "mockito",
+      "rootUri": "file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/mockito-5.0.14",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "octo_image",
       "rootUri": "file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/octo_image-1.0.0+1",
       "packageUri": "lib/",
@@ -453,7 +459,7 @@
     },
     {
       "name": "source_gen",
-      "rootUri": "file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_gen-1.0.3",
+      "rootUri": "file:///Users/macminidiego/Documents/flutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_gen-1.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -584,7 +590,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-08-10T13:30:13.180934Z",
+  "generated": "2021-08-10T13:43:26.156426Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }
