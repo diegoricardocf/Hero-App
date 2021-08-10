@@ -1,16 +1,20 @@
-# hero_app
+## HeroApp
 
-Hero App
+HeroApp is an application to learn more about your favorite heroes and discover new heroes.
 
-## Getting Started
+Demo
+https://drive.google.com/file/d/1QyOP59IiLZeNWgVDAIY8f8TVYc2bf8wK/view?usp=sharing
 
-This project is a starting point for a Flutter application.
+The main features of the app are:
 
-A few resources to get you started if this is your first Flutter project:
+Search for a hero by its name.
+Discover a new hero by tapping the shuffle button.
+Save your last searched heroes locally in a NoSql database.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app was developed in Flutter using these technologies. 
+- http for Rest service integrations. 
+- Hive NoSql database. 
+- MobX for state management. 
+- cached_network_image: for caching images.
+- lottie: for animations. 
+- some unit tests have been added. An APK was generated in apks/app-release.apk
